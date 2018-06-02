@@ -10,6 +10,7 @@ The idea is to use a local implementation of the message library to achieve a wa
 
 Notice!!!!
 in order to submit the code you need to delete the first fes lines in Main.java:
+    
     //############ COMMENT THOSE LINE BEFORE SUBMISSION!!
     private Message message;
 
