@@ -2,9 +2,9 @@
 Using java threads I created a sample code to use for simulations in local computer :)
 
 The code is:
-  Main: My solution for baby blocks.
-  baby_block: This is the problem library. 
-  Message: This is the local message library.
+- Main: My solution for baby blocks.
+- baby_block: This is the problem library. 
+- Message: This is the local message library.
   
 The idea is to use a local implementation of the message library to achieve a way to run the code in a single process using multiple threads in java environment.
 
