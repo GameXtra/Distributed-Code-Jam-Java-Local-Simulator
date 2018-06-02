@@ -4,9 +4,9 @@ Using java threads I created a sample code to use for simulations in local compu
 The code is:
   Main: My solution for baby blocks.
   baby_block: This is the problem library. 
-  Messgae: This is the local message library.
+  Message: This is the local message library.
   
-The idea is to use a local implementation of the message library to achieve a way to run the code in a single process using multiple thread in java environment.
+The idea is to use a local implementation of the message library to achieve a way to run the code in a single process using multiple threads in java environment.
 
 # Notice
 In order to submit the code you need to delete the first few lines in Main.java:
@@ -21,5 +21,6 @@ In order to submit the code you need to delete the first few lines in Main.java:
 Those lines are used in the local environment, and will couse compiler error in the google jam (This is because the local message library does not exist in google code jam environment).
 
 I hope this will be of use for someone :D
+(And of course, you can copy or modify it as much as you may want)
 
-Ido
+Ido :)
