@@ -8,7 +8,7 @@ The code is:
   
 The idea is to use a local implementation of the message library to achieve a way to run the code in a single process using multiple thread in java environment.
 
-Notice!!!!
+# Notice
 in order to submit the code you need to delete the first fes lines in Main.java:
     
     //############ COMMENT THOSE LINE BEFORE SUBMISSION!!
